@@ -4,4 +4,4 @@
 
 
 
-Thanks to Alex Gagliano and Ashley Villar for part of this code.
+Thanks to Alex Gagliano, Ashley Villar and Katja Bricman for part of this code.
